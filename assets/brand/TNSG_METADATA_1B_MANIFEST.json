@@ -1,0 +1,35 @@
+{
+  "project": "Tensegrity",
+  "symbol": "TNSG",
+  "contract": "0x93d75364Af45f90126D6b0794fB81393DF638Ef4",
+  "purpose": "Canonical token icon family for Blockscout, wallets, DEX interfaces, and web",
+  "source_uploaded_file": "5ee42d0d-7f44-44b2-871e-ceb6dd30871c(1).png",
+  "source_sha256": "b6c5fbb4e9e7781a592c2e60d18d9b7ce76b6e8220ec464b95d3e34f98699feb",
+  "safe_margin": "~8% each side",
+  "files": {
+    "tnsg-icon-master.png": {
+      "bytes": 522843,
+      "sha256": "edff50b58efa0506e3c6dbd16a8d172d933259cac80fb03c5fcc85b359ba5c4a",
+      "dimensions": "1024x1024",
+      "mode": "RGBA"
+    },
+    "tnsg-icon-512.png": {
+      "bytes": 154059,
+      "sha256": "bded2132dceaf8f3eb2b48c72c178c68546140a0927a1ef51de412d42a3f05a5",
+      "dimensions": "512x512",
+      "mode": "RGBA"
+    },
+    "tnsg-icon-256.png": {
+      "bytes": 47009,
+      "sha256": "0110413c145866e974e498af2a5135d96d9089d9941731c151616d46e1b042f7",
+      "dimensions": "256x256",
+      "mode": "RGBA"
+    },
+    "tnsg-icon-48.png": {
+      "bytes": 3343,
+      "sha256": "3e14611017d56f54588e7c2a42248d3297a3671136c1d62380eccdfaca836b02",
+      "dimensions": "48x48",
+      "mode": "RGBA"
+    }
+  }
+}
