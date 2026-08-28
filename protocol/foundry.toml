@@ -1,0 +1,22 @@
+﻿[profile.default]
+src = "src"
+test = "test"
+script = "script"
+out = "out"
+cache_path = "cache"
+libs = ["lib"]
+
+solc_version = "0.8.26"
+evm_version = "cancun"
+
+optimizer = true
+optimizer_runs = 44444444
+via_ir = true
+
+bytecode_hash = "none"
+auto_detect_remappings = false
+
+[fmt]
+line_length = 120
+tab_width = 4
+quote_style = "double"

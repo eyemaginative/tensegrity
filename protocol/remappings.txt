@@ -1,0 +1,2 @@
+@uniswap/v4-core/=lib/uniswap-v4-core-deployed/
+solmate/=lib/uniswap-v4-core-deployed/lib/solmate/
